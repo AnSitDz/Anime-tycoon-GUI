@@ -55,7 +55,7 @@ title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 title.BackgroundTransparency = 1.000
 title.Size = UDim2.new(0, 254, 0, 50)
 title.Font = Enum.Font.SourceSans
-title.Text = "Superhero tycoon"
+title.Text = "Anime tycoon"
 title.TextColor3 = Color3.fromRGB(190, 193, 0)
 title.TextSize = 40.000
 
@@ -360,7 +360,7 @@ close.TextSize = 20.000
 
 -- Scripts:
 
-local function CQPK_fake_script() -- get_weapons.LocalScript 
+local function LIRFYY_fake_script() -- get_weapons.LocalScript 
 	local script = Instance.new('LocalScript', get_weapons)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -372,80 +372,80 @@ local function CQPK_fake_script() -- get_weapons.LocalScript
 		end
 	end)
 end
-coroutine.wrap(CQPK_fake_script)()
-local function MVMZUN_fake_script() -- Goku.LocalScript 
+coroutine.wrap(LIRFYY_fake_script)()
+local function XEOAK_fake_script() -- Goku.LocalScript 
 	local script = Instance.new('LocalScript', Goku)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Goku.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(MVMZUN_fake_script)()
-local function BGLCMS_fake_script() -- Deku.LocalScript 
+coroutine.wrap(XEOAK_fake_script)()
+local function NNZBDN_fake_script() -- Deku.LocalScript 
 	local script = Instance.new('LocalScript', Deku)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Deku.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(BGLCMS_fake_script)()
-local function WAYH_fake_script() -- Ichigo.LocalScript 
+coroutine.wrap(NNZBDN_fake_script)()
+local function EZSJY_fake_script() -- Ichigo.LocalScript 
 	local script = Instance.new('LocalScript', Ichigo)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Ichigo.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(WAYH_fake_script)()
-local function WFCDSXS_fake_script() -- Sasuke.LocalScript 
+coroutine.wrap(EZSJY_fake_script)()
+local function OOVSMQ_fake_script() -- Sasuke.LocalScript 
 	local script = Instance.new('LocalScript', Sasuke)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Sasuke.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(WFCDSXS_fake_script)()
-local function WSQPJHZ_fake_script() -- Naruto.LocalScript 
+coroutine.wrap(OOVSMQ_fake_script)()
+local function GILJOD_fake_script() -- Naruto.LocalScript 
 	local script = Instance.new('LocalScript', Naruto)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Naruto.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(WSQPJHZ_fake_script)()
-local function MXSLBQ_fake_script() -- Kakashi.LocalScript 
+coroutine.wrap(GILJOD_fake_script)()
+local function SUJHZB_fake_script() -- Kakashi.LocalScript 
 	local script = Instance.new('LocalScript', Kakashi)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Kakashi.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(MXSLBQ_fake_script)()
-local function GLEOPJD_fake_script() -- Tanjiro.LocalScript 
+coroutine.wrap(SUJHZB_fake_script)()
+local function SGPB_fake_script() -- Tanjiro.LocalScript 
 	local script = Instance.new('LocalScript', Tanjiro)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Tanjiro.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(GLEOPJD_fake_script)()
-local function BRXJD_fake_script() -- Bakugo.LocalScript 
+coroutine.wrap(SGPB_fake_script)()
+local function RQJRUFB_fake_script() -- Bakugo.LocalScript 
 	local script = Instance.new('LocalScript', Bakugo)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Bakugo.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(BRXJD_fake_script)()
-local function UDFA_fake_script() -- Saitama.LocalScript 
+coroutine.wrap(RQJRUFB_fake_script)()
+local function ROZIG_fake_script() -- Saitama.LocalScript 
 	local script = Instance.new('LocalScript', Saitama)
 
 	script.Parent.MouseButton1Click:connect(function()
 		game.Players.LocalPlayer.Character:MoveTo(game.Workspace.Tycoons.Saitama.Essential.SpawnLocation.Position)
 	end)
 end
-coroutine.wrap(UDFA_fake_script)()
-local function EHOE_fake_script() -- noclip.LocalScript 
+coroutine.wrap(ROZIG_fake_script)()
+local function MAJAVGZ_fake_script() -- noclip.LocalScript 
 	local script = Instance.new('LocalScript', noclip)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -468,8 +468,8 @@ local function EHOE_fake_script() -- noclip.LocalScript
 		print('Press "E" to noclip')
 	end)
 end
-coroutine.wrap(EHOE_fake_script)()
-local function JMHEWD_fake_script() -- btools.LocalScript 
+coroutine.wrap(MAJAVGZ_fake_script)()
+local function YWDCU_fake_script() -- btools.LocalScript 
 	local script = Instance.new('LocalScript', btools)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -478,8 +478,8 @@ local function JMHEWD_fake_script() -- btools.LocalScript
 		Instance.new("HopperBin", game.Players.LocalPlayer.Backpack).BinType = 4
 	end)
 end
-coroutine.wrap(JMHEWD_fake_script)()
-local function XFEQDB_fake_script() -- remove_doors.LocalScript 
+coroutine.wrap(YWDCU_fake_script)()
+local function LSOIL_fake_script() -- remove_doors.LocalScript 
 	local script = Instance.new('LocalScript', remove_doors)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -491,8 +491,8 @@ local function XFEQDB_fake_script() -- remove_doors.LocalScript
 		end
 	end)
 end
-coroutine.wrap(XFEQDB_fake_script)()
-local function FLMT_fake_script() -- collect_cash.LocalScript 
+coroutine.wrap(LSOIL_fake_script)()
+local function SXPOOF_fake_script() -- collect_cash.LocalScript 
 	local script = Instance.new('LocalScript', collect_cash)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -508,8 +508,8 @@ local function FLMT_fake_script() -- collect_cash.LocalScript
 		playertycoon.Essential.CashCollect.Collect.Position = game.Players.LocalPlayer.Character.Head.Position
 	end)
 end
-coroutine.wrap(FLMT_fake_script)()
-local function JNWAI_fake_script() -- get_robux_gears.LocalScript 
+coroutine.wrap(SXPOOF_fake_script)()
+local function MGKOC_fake_script() -- get_robux_gears.LocalScript 
 	local script = Instance.new('LocalScript', get_robux_gears)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -521,8 +521,8 @@ local function JNWAI_fake_script() -- get_robux_gears.LocalScript
 		end
 	end)
 end
-coroutine.wrap(JNWAI_fake_script)()
-local function JRDJJ_fake_script() -- get_powerups.LocalScript 
+coroutine.wrap(MGKOC_fake_script)()
+local function VJBVUXU_fake_script() -- get_powerups.LocalScript 
 	local script = Instance.new('LocalScript', get_powerups)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -530,8 +530,8 @@ local function JRDJJ_fake_script() -- get_powerups.LocalScript
 		game.Players.LocalPlayer.Character.Humanoid.JumpPower = 100
 	end)
 end
-coroutine.wrap(JRDJJ_fake_script)()
-local function BKQJL_fake_script() -- t_to_tele_random.LocalScript 
+coroutine.wrap(VJBVUXU_fake_script)()
+local function KLQOS_fake_script() -- t_to_tele_random.LocalScript 
 	local script = Instance.new('LocalScript', t_to_tele_random)
 
 	script.Parent.MouseButton1Click:connect(function()
@@ -546,20 +546,20 @@ local function BKQJL_fake_script() -- t_to_tele_random.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(BKQJL_fake_script)()
-local function KMWJVHA_fake_script() -- open.LocalScript 
+coroutine.wrap(KLQOS_fake_script)()
+local function UYNNZ_fake_script() -- open.LocalScript 
 	local script = Instance.new('LocalScript', open)
 
 	script.Parent.MouseButton1Click:connect(function()
 		script.Parent.Parent.Parent:FindFirstChild("main").Visible = true
 	end)
 end
-coroutine.wrap(KMWJVHA_fake_script)()
-local function RKIQAT_fake_script() -- close.LocalScript 
+coroutine.wrap(UYNNZ_fake_script)()
+local function MVTXID_fake_script() -- close.LocalScript 
 	local script = Instance.new('LocalScript', close)
 
 	script.Parent.MouseButton1Click:connect(function()
 		script.Parent.Parent.Parent:FindFirstChild("main").Visible = false
 	end)
 end
-coroutine.wrap(RKIQAT_fake_script)()
+coroutine.wrap(MVTXID_fake_script)()
